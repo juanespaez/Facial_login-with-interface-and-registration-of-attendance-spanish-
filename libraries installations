@@ -1,0 +1,3 @@
+pip install MTCNN
+pip install customtkinter
+pip install cv2
